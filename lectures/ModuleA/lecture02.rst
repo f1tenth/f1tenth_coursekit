@@ -28,8 +28,8 @@ Lecture 2 - Automatic Emergency Braking
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTKTwmA1KYrfJjxzR5QHm8Q8ov7VQGpIyn8wg3SesP20jm-2Z_p0aykecAd1mXxV4CiyWOeLYSNSb8L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSeryGzyeWYT3nTCkYwiYaXPMfahJEIAL2fmPzcJHcAZEtu6lMvmXUnGVd22hDmLQ/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		
 .. **Video:**
 
 	.. raw:: html

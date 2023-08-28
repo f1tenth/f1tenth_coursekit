@@ -16,7 +16,7 @@ Tutorial 2 - Working with the F1TENTH Simulator
 
 .. raw:: html
 
-	<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTf9dgn3NtiZcCkrboyzjzZpnP5ck_HtCR4GXJUXJ7WYpV2n9BwtslWdeS-bNM0hNyx_QHqTCItDd9G/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vRHhunWcdVsR9leq4jbGWQek9bodS5g5Ah-MW6Oz8lXzrVai3vsVSXF0S9bVfALAw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 .. **Video:**

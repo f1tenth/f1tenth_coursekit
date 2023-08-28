@@ -16,7 +16,7 @@ Lecture 3 - Rigid Body Transformation
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vQQhIoepwcijdxhWZXgYIIaofFuv4sG5oIu0BwYFP3vgEH-a-Iptkzk6ox29FmoHMMBVyuoRsQbi2qQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vRclUfx3b4KNQ55Lm8_BtI-Fcv2jDwlDg9ezxcbxE1QHwH-IbOh39B8JL5zmcVZNw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. **Video:**
 

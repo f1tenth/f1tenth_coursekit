@@ -23,7 +23,7 @@ Lecture 4 - Laplace Domain Dynamics & PID
 
 	.. raw:: html
 
-		<iframe src="https://drive.google.com/file/d/1xQstTDhlttfc6icNHQ-VMswfhuGPDl_m/preview" width="640" height="480"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTthmO3A4YkT6A26NExd7JXTeyCO-iJMlYxc65jUVY0ky0NBWl76ZhL3getzRO_wg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. **Video:**
 
