@@ -20,7 +20,7 @@ Lecture 9 - Scan Matching I
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSu7weo-N89tdp-ApB13l_BEOGb9iWAuqNhsKZmTtBMCqEG54dBn15EY00qAftRRfGeWm9dIqgi-J3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTJQKzyQOxeJsqH8wkLAE_QtmCWj1FozCkn1_EBZfwOXxwTcyPjRr2OSrjG9rTILg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. 
 	**Video:**

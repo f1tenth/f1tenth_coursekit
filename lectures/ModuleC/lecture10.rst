@@ -14,7 +14,7 @@ Lecture 10 - Scan Matching II
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vQSsYAq3LhzqIwjT_1i9a9UVjgAyrgtv5Xt23CYD77pBeALmecTOe14KC0n-W1F9ux9_oVss_QV-05o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSDR9_zfswk0v75jLYcojMAQ1-DF5EcVyLKDfLCLJo9_mwzFzJCM4qen9VchhZUSg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ..
 	**Video:**

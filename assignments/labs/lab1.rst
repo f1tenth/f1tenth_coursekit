@@ -28,4 +28,4 @@ Lab 1 - Introduction to ROS
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1p-XJmLWq6MfYiHIBPVSEkmM_7eD2a-f9/preview" width="640" height="480"></iframe>
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1-63aKKv4-kGvHaJthWoOr1ByU9r0VhVS/view?usp=drive_link" width="640" height="480"></iframe>

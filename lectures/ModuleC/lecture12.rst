@@ -14,7 +14,7 @@ Lecture 12 - Modern SLAM: Cartographer
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTBfbA40TjGjqLq9gEN-jiyKp6K09XTBzJgX3ujRGmacCtKgTDZyx6MwncSRtWch2W3uaTWEsergYlw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vS7bSxQovi2zqNJrdqkbCrp4v0kJZd45p5eKHLyQgJpViAm3S9ErLG1hbErrhltKQ/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ..
 	**Video:**

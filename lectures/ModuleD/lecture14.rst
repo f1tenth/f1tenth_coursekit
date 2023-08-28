@@ -20,7 +20,7 @@ Lecture 14 - Rapidly-exploring Random Tree (RRT)
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSh6oTk6DFZYlWyHT8Rks-X9PFzirVznPZY5ZQM9VL1EqBhunePWQyEMSJlAWaHub1Ck4RfX_MIO6sW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="629" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSuFGxr0FVZ48dKBDcmud9a_4xp8zCS7vl5qu8m8DlLnaJnZAx9--AtTBaXCNSp8A/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="629" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ..
 	**Video:**

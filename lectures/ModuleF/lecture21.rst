@@ -15,7 +15,7 @@ Lecture 21 - Model Predictive Control
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vRQWcJKUPtUFQLsSIpJIt1YlvJhIUuPzp1zI5aDKv0VO0nlgMGqUxq_9WnWcuokz7kxu50CO0sTvX0P/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7JoJsHQIr_Mua3P9w2wxH5kosgc4FdDr6Kf940vwfglJ1sZUl3Axlg9rcfnxlXA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ..
 	**Video:**

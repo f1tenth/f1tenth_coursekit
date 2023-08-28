@@ -34,4 +34,4 @@ Lab 8 - Perception and Planning
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1hdSzR9inLNZMwRetuXCdFf70WNbzry-B/preview" width="640" height="480"></iframe>
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1XWkdkkCTt072qkzR3WIgROplf0Ay1QoY/view?usp=drive_link" width="640" height="480"></iframe>

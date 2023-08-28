@@ -8,7 +8,7 @@ Race 3
 
 **Race Prep:** Teams should be given the track beforehand so they can map it on their own time.
 
-**Race Day:** View the `Race3 Rubric <https://docs.google.com/spreadsheets/d/1TVz_E3AGdg7vMDc3E5JCkMwy_1bnrjuo5goGEVQUQB8/edit#gid=0>`_ and :ref:`Grading <doc_grading>` to see how teams are evaluated. Depending on how much time is allocated, there can be a practice sesion beforehand and then have teams do one or two heats of timed trials similar to Race 1 and Race 2 in order for the final race to be seeded. Alternatively, the timed trials for seeding can be done the day before.
+**Race Day:** View the `Race3 Rubric <https://docs.google.com/spreadsheets/d/1gvkIyaZuPUC6-Cb7FpFiT8ZrpwOfUKHX/edit?usp=sharing&ouid=116660630717436430566&rtpof=true&sd=true>`_ and :ref:`Grading <doc_grading>` to see how teams are evaluated. Depending on how much time is allocated, there can be a practice sesion beforehand and then have teams do one or two heats of timed trials similar to Race 1 and Race 2 in order for the final race to be seeded. Alternatively, the timed trials for seeding can be done the day before.
 
 .. image:: img/race04.gif
 	:align: center
