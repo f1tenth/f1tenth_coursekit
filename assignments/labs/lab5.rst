@@ -28,4 +28,4 @@ Lab 5 - Scan Matching
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1g27WUTeoxrznFozfY0Vj45V1evVw1uTA/preview" width="640" height="480"></iframe>
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1J5wjiu6xOFrMwyYZNNOKEhjcJqyS7uDF/view?usp=drive_link" width="640" height="480"></iframe>

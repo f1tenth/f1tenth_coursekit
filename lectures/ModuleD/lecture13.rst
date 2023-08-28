@@ -17,7 +17,7 @@ Lecture 13 - Pure Pursuit
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vRXFX2P4z6bkkgZmQPL-qDM45kGbfNbCEKsbhMqDrOF4OcvsnO_G6UTk262ouvJLf0IJAvNzzHUIRDj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vR1D6cSiuUzpQ8A6Yh_5RjIbj_WjAuD4CNE4BGN2u1ewEJ8IasUhcTboUQUUuaRhg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ..
 	**Video:**

@@ -19,8 +19,8 @@ Lecture 6 - Reactive Methods: Follow the Gap & Variants
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vT-7eoy4Lh3S1sowJ3btXGtWv3YJf9uH88Hv68Jui-yhTU5ti-NQvWXqMThMDnoRH3Xdp1ZJC6ofkRL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-		
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vR3PGlezeQroi6j95RtXPCwhSqZ-X1vM3PlCXSTlCzvMliD1uYlZRs1AUWdMHdNlA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ..
 	**Video:**
 

@@ -6,13 +6,13 @@ Grading Rubrics
 
 Labs & Final Project
 ------------------------
-Grading rubrics for all 8 labs and the final projects can be found `here <https://docs.google.com/spreadsheets/d/1uO9wn95xfjgwUSYsc9Sxbt8SRnGXDz2n1_zBehQHm9w/edit?usp=sharing>`_. You will want to download a copy of this rubric to edit.
+Grading rubrics for all 8 labs and the final projects can be found `here <https://docs.google.com/spreadsheets/d/1zbbqYJ3zdfNtegcT-3L4uwd-yt-gWFyf/edit?usp=sharing&ouid=116660630717436430566&rtpof=true&sd=true>`_. You will want to download a copy of this rubric to edit.
 
 Note that these rubrics are available to the students at the beginning of each lab so the expectations are transparent.
 
 Races
 --------
-The grading rubic for all three races can be found `here <https://docs.google.com/spreadsheets/d/1TVz_E3AGdg7vMDc3E5JCkMwy_1bnrjuo5goGEVQUQB8/edit?usp=sharing>`_.
+The grading rubic for all three races can be found `here <https://docs.google.com/spreadsheets/d/1gvkIyaZuPUC6-Cb7FpFiT8ZrpwOfUKHX/edit?usp=sharing&ouid=116660630717436430566&rtpof=true&sd=true>`_.
 
 Race 1 and Race 2
 ^^^^^^^^^^^^^^^^^^^^^^^^

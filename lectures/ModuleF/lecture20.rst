@@ -18,7 +18,7 @@ Lecture 20 - Raceline Optimization
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSvkoQlQ9jLHAmtW1SstORVbLhu1H_XopQ_Q49zQs-wyUzH_QSIQ5fmg9UlvVI1ZwJu1NtOHYRg5W4q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTW8y9_8Q5dNpdPWF-rlRD7R9Q4zrkg4QtuoGY_4dcKACpIAHVve-YnYUdjzQWuXQ/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ..
 	**Video:**

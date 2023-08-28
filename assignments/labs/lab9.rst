@@ -25,4 +25,4 @@ Lab 9 - Robot Ethics
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1CPzEZjLq3ViuoB0aFcu905790ADNhi-g/preview" width="640" height="480"></iframe>
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1AL1bzESlr2J4qepXvTl5kfp3c2qoI9d9/view?usp=drive_link" width="640" height="480"></iframe>

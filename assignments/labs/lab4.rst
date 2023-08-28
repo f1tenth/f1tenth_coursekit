@@ -23,5 +23,5 @@ Lab 4 - Follow the Gap
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1_0vpmFRREis1dU_yDpwpSKZewcU-2ToH/preview" width="640" height="480"></iframe>
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1rN2dFuN1hIiZp7_7nvhJEdcu6praY9_Z/view?usp=drive_link" width="640" height="480"></iframe>
 

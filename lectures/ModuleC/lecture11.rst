@@ -14,7 +14,7 @@ Lecture 11 - Particle Filters
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSAP4VlIu1InjJr5lWCBzvogAVXviJnau9XCnxVfWvDNKrQrCn2Qzvb_Dozl35SV5MDKIN4Q-NRZfTn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSpVRivaWcqH5NwZHO-iNv0VwxsebbraqEySUOEOm8CAe-zFyoudH-OZ7zdT8hXhw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. 
 	**Video:**

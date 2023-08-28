@@ -14,4 +14,4 @@ Lectures 22 - Moral Decision Making
 
 	.. raw:: html
 
-		<iframe width="650" height="800" src="https://drive.google.com/file/d/1lB9E3dH6XnpP0QFM8nVHHGo09x9EWHId/preview" width="640" height="480"></iframe>
+		<iframe width="650" height="800" src="https://drive.google.com/file/d/1mZq40pjJMlr2Z7Rb0nzMaQ0uiidQPJ0j/view?usp=sharing" width="640" height="480"></iframe>

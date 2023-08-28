@@ -20,6 +20,6 @@ Final Project
 
 **Project Presentation:** Teams have the chance to present their final project to the class in :ref:`Lecture 26 <doc_lecture26>`. The demo format is up to each team. Some ideas are live demo, videos, powerpoint presentations, etc. The teaching team should be mindful of time and allocate time for each team beforehand. (E.g. For an 80 minute lecture time and 4 teams, each team is allowed 15 minutes presentation and 3 minutes Q&A. 2 minutes are used to transition to the next team)
 
-**Report Submission:** The final report should be similar to a short research paper. A fantastic example report can be found `here <https://drive.google.com/file/d/1F0WBiJbjhTmlybs1vmB1h-hvsay7cPh3/view>`_. Refer to :ref:`Grading <doc_grading>` for specifics on evaluation.
+**Report Submission:** The final report should be similar to a short research paper. A fantastic example report can be found `here <https://drive.google.com/file/d/1aZj5jiirkFSGa4pIH4Q1j0w-B1fyppm8/view?usp=sharing>`_. Refer to :ref:`Grading <doc_grading>` for specifics on evaluation.
 
 
