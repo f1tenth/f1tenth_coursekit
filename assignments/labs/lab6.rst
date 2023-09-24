@@ -24,4 +24,4 @@ Lab 6 - Pure Pursuit
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1OKcwQW2FOfBNjExp7JA_MvMZs-mRItZr/view?usp=drive_link" width="640" height="480"></iframe>
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1OKcwQW2FOfBNjExp7JA_MvMZs-mRItZr/preview?usp=drive_link" width="640" height="480"></iframe>

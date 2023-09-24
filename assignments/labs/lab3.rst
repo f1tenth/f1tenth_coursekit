@@ -24,4 +24,4 @@ Lab 3 - Wall Following
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1WZ4ou14iQLI6VUU8btDTlc9bbsxkQMA_/view?usp=drive_link" width="640" height="480"></iframe>
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1WZ4ou14iQLI6VUU8btDTlc9bbsxkQMA_/preview?usp=drive_link" width="640" height="480"></iframe>

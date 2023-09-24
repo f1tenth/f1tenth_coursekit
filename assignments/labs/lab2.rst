@@ -25,4 +25,4 @@ Lab 2 - Automatic Emergency Braking
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1cGN8fXoMFhFFCXBd3cdlYv-UABaRmxog/view?usp=drive_link" width="640" height="480"></iframe>
+	<iframe width="700" height="800" src="https://drive.google.com/file/d/1cGN8fXoMFhFFCXBd3cdlYv-UABaRmxog/preview?usp=drive_link" width="640" height="480"></iframe>
