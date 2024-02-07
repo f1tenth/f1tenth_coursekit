@@ -32,5 +32,5 @@ Lecture 6 - Reactive Methods: Follow the Gap & Variants
 **Links to additional resources:**
 	- `Harmonic Potential Fields <https://ieeexplore.ieee.org/abstract/document/4587222>`_
 	- `Artifical Potential Fields <https://www.cs.cmu.edu/~motionplanning/lecture/Chap4-Potential-Field_howie.pdf>`_
-	- `Robotics: Computational Motion Planning <https://www.coursera.org/learn/robotics-motion-planning>`_
 	- `Details on the Disparity Extender approach <https://www.nathanotterness.com/2019/04/the-disparity-extender-algorithm-and.html>`_
+	- `Robotics: Computational Motion Planning <https://www.coursera.org/learn/robotics-motion-planning>`_
