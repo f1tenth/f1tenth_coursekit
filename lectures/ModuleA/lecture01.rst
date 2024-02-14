@@ -5,7 +5,7 @@ Lecture 1 - Introduction to Autonomous Driving: Perception, Planning Control
 ============================================================================
 
 **Overview:** 
-	This lecture is an introduction to the F1TENTH Autonomous Vehicle Community. We go over course logistics (grading, policies, syllabus), course support (teaching team, piazza), and expectations. We will end the lecture with a brief introduction to the world of autonomous racing. By the end of this lecture, you will have gotten your first taste of the exciting world of autonomous systems.
+	This lecture is an introduction to the F1TENTH Autonomous Vehicle Community. We will give brief introduction to the world of autonomous racing and step through each lecture on perception, planning and control. By the end of this lecture, you will have gotten your first taste of the exciting world of autonomous systems.
 
 **Topics Covered:**
 	-	Course Logistics
