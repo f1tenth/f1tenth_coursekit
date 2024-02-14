@@ -22,20 +22,21 @@ Lecture 2 - Automatic Emergency Braking
 	   tutorial2
 
 **Associated Assignment:** 
-	* :ref:`Lab 2: Introduction to ROS <doc_lab2>`
+	* :ref:`Lab 2: Automatic Emergency Braking <doc_lab2>`
 
 **Slides:**
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSeryGzyeWYT3nTCkYwiYaXPMfahJEIAL2fmPzcJHcAZEtu6lMvmXUnGVd22hDmLQ/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1HQSLPLE-fZ3EN-9PyqMd7-ti7JSLKL7qlrouGFEprU0/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 		
-.. **Video:**
+**Video:**
 
 	.. raw:: html
 
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/k4FQ-dZ0Lp8" title="F1TENTH L02 - Automatic Emergency Braking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+.. <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. **Links to additional resources:**
 	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

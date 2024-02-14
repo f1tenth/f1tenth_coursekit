@@ -12,18 +12,26 @@ Lecture 3 - Rigid Body Transformation
 	-	Rigid Body Transformations
 	-	Frames and Transformations in ROS
 
+**Associated Tutorial:**
+	.. toctree::
+	   :maxdepth: 1
+	   :name: sec-tutorial3
+
+	   tutorial3
+
 **Slides:**
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vRclUfx3b4KNQ55Lm8_BtI-Fcv2jDwlDg9ezxcbxE1QHwH-IbOh39B8JL5zmcVZNw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1kjZcLUrixDe654C4QjE1xDjKURcR0O11jNete8-XyOk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-.. **Video:**
+**Video:**
 
 	.. raw:: html
 
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/XwNsJFcSQx4" title="F1TENTH L03 - Rigid Body Transformations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+.. <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
 
 **Links to additional resources:**
 	- `Robot Modeling and Control <https://www.amazon.com/Robot-Modeling-Control-Mark-Spong/dp/0471649902/ref=sr_1_1?keywords=Robot+Modeling+and+Control&link_code=qs&qid=1583440764&sr=8-1>`_

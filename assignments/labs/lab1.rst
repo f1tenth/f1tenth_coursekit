@@ -1,31 +1,12 @@
 .. _doc_lab1:
 
 
-Lab 1 - Introduction to ROS
+Lab 1 - Introduction to ROS2
 =============================
 
-| **Goals:** 
-| The goal of this lab assignment is to get you familiar with the various paradigms and uses of ROS and how it can be used to build robust robotic systems. ROS is a meta-operating system which simplifies inter-process communication between elements of a robot's perception planning and control systems.
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_lab1_template/tree/24f7320ebf1b9a325a2039d4208204da4454d1ab>`_ 
 
-| **Learning Outcomes:** 
-| The following fundamentals should be understood by the students upon completion of this lab:
-
-	* Understanding the directory structure and framework of ROS
-	* Understanding how publishers and subscribers are implemented
-	* Implementing custom messages
-	* Understanding Cmake lists and package.XML files
-	* Understanding dependencies
-	* Working with launch files
-	* Working with Rviz
-	* Working with Bag files
-
-**Required Skills:** Python or C++ (or at least some programming experience)
-
-**Allotted Time:** 1 week
-
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 .. raw:: html
-
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1-63aKKv4-kGvHaJthWoOr1ByU9r0VhVS/preview?usp=drive_link" width="640" height="480"></iframe>
+	
+	<iframe frameborder="10" scrolling="yes" style="width:100%; height:2000px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2Ff1tenth%2Ff1tenth_lab1_template%2Fblob%2F24f7320ebf1b9a325a2039d4208204da4454d1ab%2FREADME.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></iframe>
