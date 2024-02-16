@@ -1,32 +1,26 @@
 .. _doc_lecture06:
 
 
-Lecture 6 - Reactive Methods: Follow the Gap & Variants
-===========================================================
+Lecture 6 - Vehicle States and Vehicle Dynamics
+===============================================
 
 **Overview:** 
-	A autonomous vehicle is heading towards its destination and it sees obstacles coming up ahead. How does it react and avoid these obstacles?
+	Challenge: How can we model the vehicles longitudinal and lateral behavior so we can have an accurate vehicle simulation
 
-**Topics Covered:**
-	-	Reactive Methods
-	-	Follow the Gap
-	- 	Artifical Portential Fields
-
-**Associated Assignment:** 
-	* :ref:`Lab 4: Reactive Methods - Follow the Gap <doc_lab4>`
+**Learning Outcomes:**
+	- Learn the basic of vehicle dynamics modelling, vehicle dynamics simulation and the most important vehicle states for autonomous driving
 
 **Slides:**
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vR3PGlezeQroi6j95RtXPCwhSqZ-X1vM3PlCXSTlCzvMliD1uYlZRs1AUWdMHdNlA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1WyjxztzXB28to5-9PsGCiYqDEcPHnOhxjmiekNhwgEg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-..
-	**Video:**
+**Video:**
 
 	.. raw:: html
 
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/8zr5NUS05cM" title="F1TENTH L06 - Vehicle States, Vehicle Dynamics and Map Representations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Links to additional resources:**

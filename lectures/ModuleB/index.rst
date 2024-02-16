@@ -13,5 +13,3 @@ The second module goes over reactive method and ends with :ref:`Race 1 <doc_race
    lecture04
    lecture05
    lecture06
-   lecture07
-   lecture08
