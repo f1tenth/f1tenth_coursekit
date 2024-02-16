@@ -13,4 +13,3 @@ The first module goes over the some of the basics required to understand and con
    lecture01
    lecture02
    lecture03
-   lecture04

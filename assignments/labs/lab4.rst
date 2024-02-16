@@ -18,10 +18,9 @@ Lab 4 - Follow the Gap
 
 **Allotted Time:** 1 week
 
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_lab4_template/tree/22a1c490759f05d822efae10d353415fbb187b24>`_ 
 
 .. raw:: html
 
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1rN2dFuN1hIiZp7_7nvhJEdcu6praY9_Z/preview?usp=drive_link" width="640" height="480"></iframe>
+	<iframe frameborder="10" scrolling="yes" style="width:100%; height:1520px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2Ff1tenth%2Ff1tenth_lab4_template%2Fblob%2F22a1c490759f05d822efae10d353415fbb187b24%2FREADME.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></iframe>
 

@@ -23,4 +23,4 @@ def depthSum(nestedList) -> int:
         ans += setdict(1, entry)
     return ans
 
-print(depthSum([1,2,3,4]))
+print(depthSum([1,2,3]))

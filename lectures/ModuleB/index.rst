@@ -10,6 +10,7 @@ The second module goes over reactive method and ends with :ref:`Race 1 <doc_race
    :maxdepth: 1
    :name: sec-moduleb
 
+   lecture04
    lecture05
    lecture06
    lecture07

@@ -1,4 +1,4 @@
-.. _doc_lecture1:
+.. _doc_lecture01:
 
 
 Lecture 1 - Introduction to Autonomous Driving: Perception, Planning Control

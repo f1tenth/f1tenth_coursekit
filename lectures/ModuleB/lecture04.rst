@@ -16,6 +16,13 @@ Lecture 4 - Laplace Domain Dynamics & PID
 	-	PID Control
 	-	testing
 
+**Associated Tutorial:**
+	.. toctree::
+	   :maxdepth: 1
+	   :name: sec-tutorial4
+
+	   tutorial4
+
 **Associated Assignment:** 
 	* :ref:`Lab 3: Wall Following <doc_lab3>`
 
@@ -23,13 +30,13 @@ Lecture 4 - Laplace Domain Dynamics & PID
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vTthmO3A4YkT6A26NExd7JXTeyCO-iJMlYxc65jUVY0ky0NBWl76ZhL3getzRO_wg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1FBSLRzHv0ZvpfQ74JkaB3zegwmMt_Qf4HvIYfyAa5B4/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-.. **Video:**
+**Video:**
 
 	.. raw:: html
 
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/qIpiqhO3ITY" title="F1TENTH L04  - PID Control for Wall Following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Links to additional resources:**
