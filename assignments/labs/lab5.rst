@@ -1,31 +1,12 @@
 .. _doc_lab5:
 
 
-Lab 5 - Scan Matching
-======================
-.. note:: This is an **GROUP** assignment.
+Lab 5 - SLAM and Pure Pursuit
+=============================
 
-.. tip:: Before starting this lab, review :ref:`Lecture 9 <doc_lecture09>` and :ref:`Lecture 10 <doc_lecture10>` ensure you are familiar with the material.
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_lab6_template/tree/4a664036044b763b97c34e2018246772cf0699de>`_ 
 
-| **Goals:**
-| This lab deals with the problem of localization in Robotics and provides an introduction to localization and why is it important in the autonomy stack. Through the lab, one of the most fundamental algorithms of localization, *scan matching*, is implemented. It uses the *Iterative Closest Point* algorithm which has been introduced in class. You can take reference from the `Andre Censi PLICP paper <https://censi.science/pub/research/2008-icra-plicp.pdf>`_. By the end of this lab you will have a certain level of knowledge and expertise in localization of a robot given a mapped environment and how it is important in path planning and trajectory tracking.
-
-| **Learning Outcomes:**
-| The following fundamental should be understood by the students upon completion of this lab:
-
-	* Localization
-	* Odometry Estimation
-	* Convex optimization
-	* C++ OOP
-	* Quadratic Programming
-
-**Required Skills:** ROS, Python/C++
-
-**Allotted Time:** 1 week
-
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab5>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 .. raw:: html
-
-	<iframe width="700" height="800" src="https://drive.google.com/file/d/1J5wjiu6xOFrMwyYZNNOKEhjcJqyS7uDF/preview?usp=drive_link" width="640" height="480"></iframe>
+	
+	<iframe frameborder="0" scrolling="no" style="width:100%; height:1816px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2Ff1tenth%2Ff1tenth_lab6_template%2Fblob%2F4a664036044b763b97c34e2018246772cf0699de%2FREADME.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></iframe>

@@ -1,34 +1,31 @@
-.. _doc_lecture8:
+.. _doc_lecture08:
 
 
-Lecture 8 - Race 1
-===========================================================================
+Lecture 8 - Localization: Particle Filter
+=========================================
 
 **Overview:** 
-	First race of the semester!! See :ref:`Race 1 <doc_race1>` for more information on how to setup and evaluate the race.
+	In this lecture we will understand particle filters in general, and especially particle filters used for Monte Carlo localization so for localizing robot in an environment given that we have a map.
 
-.. image:: img/car03.gif
-	:align: center
-	:width: 300px
+**Topics Covered:**
+		-	Map making with Hector SLAM 
+		- 	Particle Filter Localization
+		-	Adaptive Monte Carlo Localization (AMCL)
+		- 	Recursive Bayes Filtering used in AMCL
+		- 	Tuning Particle Filters in ROS First race of the semester!! See :ref:`Race 1 <doc_race1>` for more information on how to setup and evaluate the race.
 
+**Slides:**
 
-..
-	**Topics Covered:**
-		-	Why use a simulator?
-		-	How to install and use the F1TENTH simulator
+	.. raw:: html
 
-	**Slides:**
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1zXzg-khyPjeTYBkUGxNMSNaU2hjmnybQcAoeeVQ6Z10/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-		.. raw:: html
+**Video:**
 
-			<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vQSsYAq3LhzqIwjT_1i9a9UVjgAyrgtv5Xt23CYD77pBeALmecTOe14KC0n-W1F9ux9_oVss_QV-05o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+	.. raw:: html
 
-	**Video:**
-
-		.. raw:: html
-
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/SRBdpoPl57Q?list=PL7rtKJAz_mPdFDJtufKmqfWRNu55s_LMc" title="F1TENTH L09 - Particle Filters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-	**Links to additional resources:**
-		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+**Links to additional resources:**
+	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

@@ -9,7 +9,7 @@ This third module goes over mapping and localization.
    :maxdepth: 1
    :name: sec-modulec
 
+   lecture07
+   lecture08
    lecture09
-   lecture10
-   lecture11
-   lecture12
+   lecture09optional

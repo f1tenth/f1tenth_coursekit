@@ -1,35 +1,32 @@
 .. _doc_lecture07:
 
 
-Lecture 7 - Race Prep
-=============================================
+Lecture 7 - Filtering
+=====================
 
-This lecture is open office hours in preparation for the first race.
+**Overview:** 
+	This lecture is more of Localization and Mapping - Introduction to Bayes Filter
 
-.. image:: img/car02.gif
-	:align: center
-	:width: 300px
-
-..
-	**Overview:** 
-		This lecture is more of a short tutorial than a traditional lecture. You will learn how to install the use the simulator on your machine. 
-
-	**Topics Covered:**
-		-	Why use a simulator?
-		-	How to install and use the F1TENTH simulator
-
-	**Slides:**
-
-		.. raw:: html
-
-			<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSu7weo-N89tdp-ApB13l_BEOGb9iWAuqNhsKZmTtBMCqEG54dBn15EY00qAftRRfGeWm9dIqgi-J3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-	**Video:**
-
-		.. raw:: html
-
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Topics Covered:**
+	-	Introduction to State Estimation
+	-	Recap of Probability and Bayes Rule
+	- 	Recursive Bayes Filter
+	- 	Variants of Bayes Filter: KF, Particle filter
+	-	Running Particle Filter in ROS2 
 
 
-	**Links to additional resources:**
+**Slides:**
+
+	.. raw:: html
+
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1-DP-g5cySK1gNRp974G2Jo3Ai_gv6RxhB6p4GhQNeHs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+**Video:**
+
+	.. raw:: html
+
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/kQi5IGzvr0c?list=PL7rtKJAz_mPdFDJtufKmqfWRNu55s_LMc" title="F1TENTH L07 Bayes Filtering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Links to additional resources:**
 	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
