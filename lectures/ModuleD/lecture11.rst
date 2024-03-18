@@ -1,20 +1,27 @@
 .. _doc_lecture11:
 
 
-Lecture 11 - Particle Filters
-=============================================
+Lecture 11 - Local Planning: RRT, Spline Based Planner
+=======================================================
 
 **Overview:** 
-	This is the third installment in the Localization lectures. Given inputs of laser scan data, a control input, and a map, we want to output a pose and some "particles". This lecture is divided into three parts: 1) going over the particle filter localization algorithm, 2) tuning the alrogithm, and 3) additional resources and a hands on tutorial. Expect a dense but extremely informative lecture.
+	This Lecture is on Sampling-based Motion Planning
 
 **Topics Covered:**
-	-	Particle filters
+	-	Local planners
+	- 	Using RRT as a local planner
+	-	Clothoids
+	- 	State Lattice Planner
+	- 	Graph-based Planner
+
+**Associated Assignment:** 
+	* :ref:`Lab 6: Motion Planning <doc_lab6>`
 
 **Slides:**
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSpVRivaWcqH5NwZHO-iNv0VwxsebbraqEySUOEOm8CAe-zFyoudH-OZ7zdT8hXhw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1W9_nQ-mgeIkZSo40hkxwzSX2LjKGl3JTg72nzjMfnkg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. 
 	**Video:**
@@ -24,7 +31,7 @@ Lecture 11 - Particle Filters
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+.. **Links to additional resources:**
 	- `S. Thrun, W. Burgard. “Probabilistic Robotics.” Chapter 4 and Chapter 8. <http://www.probabilistic-robotics.org/>`_
 	- `S. Thrun. “Artificial Intelligence for Robotics, Lesson 3.” Udacity. <https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373>`_
 	- `S. Thrun, D. Fox, W. Burgard and F. Dellaert. “Robust Monte Carlo Localization for Mobile Robots.”​ Artificial Intelligence Journal. 2001. <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.71.6016&rep=rep1&type=pdf>`_

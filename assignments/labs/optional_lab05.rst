@@ -1,4 +1,4 @@
-.. _doc_lab05:
+.. _doc_optional_lab05:
 
 
 Lab 5 - Scan Matching (Optional)

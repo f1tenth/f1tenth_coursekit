@@ -1,7 +1,7 @@
 .. _doc_moduleD:
 
 
-Module D: Planning
+Module D: Planning & Control
 =======================================
 This fourth module goes over different motion planning methods and ends with :ref:`Race 2 <doc_race2>`. 
 
@@ -10,7 +10,5 @@ This fourth module goes over different motion planning methods and ends with :re
    :maxdepth: 1
    :name: sec-moduled
 
-   lecture13
-   lecture14
-   lecture15
-   lecture16
+   lecture10
+   lecture11

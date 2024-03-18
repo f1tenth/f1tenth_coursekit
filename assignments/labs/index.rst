@@ -25,11 +25,11 @@ The sections below have information for each lab.
    lab3
    lab4
    lab5
-   lab05
    lab6
    lab7
    lab8
    lab9
+   optional_lab05
    solutions
 
 .. image:: img/lab02.gif
