@@ -1,30 +1,34 @@
 .. _doc_lecture12:
 
 
-Lecture 12 - Modern SLAM: Cartographer
-=========================================
+Lecture 12 - Classical Perception
+==================================
 
 **Overview:** 
-	This final lecture in the Mapping & Localization Module goes over how modern day SLAM is used in google cartographer. We go over what is google cartographer, its frontend and backend, and how to install and use it. This method is important because it reduces the computation requirements of computing loop closure constraints as compared to the basic scan matching algorithms.
+	This is part 1 of a 2 part series on Computer Vision for Autonomous Vehicles. This lecture focuses on Classical Methods
 
 **Topics Covered:**
-	- 	Google cartographer
+	- 	Vision Hardware
+	- 	Accessing Camera on Linux
+	-	Camera Model & Distance Estimation
+	-	Useful OpenCV Functions
+	-	Visual SLAM
+
 
 **Slides:**
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vS7bSxQovi2zqNJrdqkbCrp4v0kJZd45p5eKHLyQgJpViAm3S9ErLG1hbErrhltKQ/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1xkOH_O_t55Tyt321vbhObeMjYezC7rGfnkY1S7WjlNE/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-..
-	**Video:**
+**Video:**
 
-		.. raw:: html
+	.. raw:: html
 
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/OW6VLFgocDM" title="F1TENTH  L16 -  Classic Computer Vision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-**Links to additional resources:**
+.. **Links to additional resources:**
 	- `Google Cartographer <https://google-cartographer.readthedocs.io/en/latest/>`_
 	- `Efficient Sparse Pose Adjustment for 2D Mapping <http://ais.informatik.uni-freiburg.de/publications/papers/konolige10iros.pdf>`_
 	- `A Tutorial on Graph-Based SLAM <http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf>`_

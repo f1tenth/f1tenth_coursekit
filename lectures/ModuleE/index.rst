@@ -10,6 +10,5 @@ This module goes vision and perception methods and ends with an overview of the 
    :maxdepth: 1
    :name: sec-modulee
 
-   lecture17
-   lecture18
-   lecture19
+   lecture12
+   lecture13
