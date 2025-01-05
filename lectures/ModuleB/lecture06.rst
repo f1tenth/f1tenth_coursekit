@@ -14,7 +14,7 @@ Lecture 6 - Vehicle States and Vehicle Dynamics
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1WyjxztzXB28to5-9PsGCiYqDEcPHnOhxjmiekNhwgEg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1icJ0SHz2Q6JybGRywRTIHEpZbuQ_K2lmvEoJ-sYO4C4/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Video:**
 
