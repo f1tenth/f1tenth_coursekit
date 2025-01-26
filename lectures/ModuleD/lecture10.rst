@@ -21,7 +21,7 @@ Lecture 10 - Pure Pursuit
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://www.youtube.com/embed/x9s8J4ucgO0" title="F1TENTH L10 - Pure Pursuit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/x9s8J4ucgO0" title="RoboRacer L10 - Pure Pursuit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 .. <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

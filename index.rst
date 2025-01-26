@@ -1,7 +1,7 @@
-F1TENTH - Course Documentation 
+RoboRacer - Course Documentation 
 ================================================
 
-Here, you will learn how to utilize your F1TENTH vehicle to its fullest potential!
+Here, you will learn how to utilize your RoboRacer vehicle to its fullest potential!
 
 .. attention::
   
@@ -13,7 +13,7 @@ Here, you will learn how to utilize your F1TENTH vehicle to its fullest potentia
 
 If you are looking for the old Code page, you can find it `here <https://f1tenth.org/code-old.html>`_. Please note that we no longer provide support for the old code page. If you have questions, please post to the `forum <http://f1tenth.org/forum.html>`_.
 
-.. note:: F1TENTH is an open source project developed by a community of
+.. note:: RoboRacer is an open source project developed by a community of
           researchers and students. The documentation team can always use your
           feedback and help to improve the tutorials and class reference. If
           you don't understand something, or cannot find what you

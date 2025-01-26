@@ -25,8 +25,8 @@ Lecture 7 - Filtering
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://www.youtube.com/embed/kQi5IGzvr0c?list=PL7rtKJAz_mPdFDJtufKmqfWRNu55s_LMc" title="F1TENTH L07 Bayes Filtering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/kQi5IGzvr0c?list=PL7rtKJAz_mPdFDJtufKmqfWRNu55s_LMc" title="RoboRacer L07 Bayes Filtering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Links to additional resources:**
-	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+	- `RoboRacer Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

@@ -23,9 +23,9 @@ source_encoding = 'utf-8-sig'
 master_doc = 'index'
 
 # General information about the project
-project = 'F1TENTH - Learn'
-copyright = '2018-2020, F1TENTH community (CC-BY-NC-SA 4.0)'
-author = 'F1TENTH community'
+project = 'RoboRacer - Learn'
+copyright = '2018-2020, RoboRacer community (CC-BY-NC-SA 4.0)'
+author = 'RoboRacer community'
 
 # Version info for the project, acts as replacement for |version| and |release|
 # The short X.Y version
@@ -124,8 +124,8 @@ file_insertion_enabled = False
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'F1TENTH_coursekit.tex', 'F1TENTH Course Kit',
-   'F1TENTH community', 'manual'),
+  (master_doc, 'F1TENTH_coursekit.tex', 'RoboRacer Course Kit',
+   'RoboRacer community', 'manual'),
 ]
 
 # -- Options for linkcheck builder ----------------------------------------

@@ -33,11 +33,11 @@ Lecture 5 - Follow the Gap: Obstacle Avoidance
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://www.youtube.com/embed/5asfD-_Z9x8" title="F1TENTH L05 - Follow the Gap for Obstacle Avoidance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/5asfD-_Z9x8" title="RoboRacer L05 - Follow the Gap for Obstacle Avoidance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. **Links to additional resources:**
-		- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+		- `RoboRacer Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
 		- `Build Documentation <https://f1tenth.github.io/build.html>`_ (VESC Tuning instructions can be found under **Installing Firmware > 1. Configuring the VESC**)
 		- `Build Support Forum <http://f1tenth.org/forum.html>`_
-		- `Connect with other F1TENTH teams from around the world <https://join.slack.com/t/f1tenth-teams/shared_invite/enQtMzc3ODU2ODM1NzE3LTBjMmVkMzZjZTJiNWUzZDFhZTJiODgzMjg0MTA1MDAxZTUxMzkwMDRhNTM2NzdjNDc5MTk5YTc5YmNhNTdhMTU>`_
+		- `Connect with other RoboRacer teams from around the world <https://join.slack.com/t/f1tenth-teams/shared_invite/enQtMzc3ODU2ODM1NzE3LTBjMmVkMzZjZTJiNWUzZDFhZTJiODgzMjg0MTA1MDAxZTUxMzkwMDRhNTM2NzdjNDc5MTk5YTc5YmNhNTdhMTU>`_
