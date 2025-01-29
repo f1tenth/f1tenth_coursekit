@@ -34,9 +34,9 @@ Lecture 2 - Automatic Emergency Braking
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://www.youtube.com/embed/k4FQ-dZ0Lp8" title="F1TENTH L02 - Automatic Emergency Braking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/k4FQ-dZ0Lp8" title="RoboRacer L02 - Automatic Emergency Braking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 .. <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. **Links to additional resources:**
-	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
+	- `RoboRacer Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_

@@ -22,9 +22,9 @@ Tutorial 1: Introduction to ROS2
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://www.youtube.com/embed/EU-QaO6xTv4" title="F1TENTH T01 - Tutorial on Docker and ROS2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/EU-QaO6xTv4" title="RoboRacer T01 - Tutorial on Docker and ROS2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. **Links to additional resources:**
-	- `F1TENTH Simulator Repo <https://github.com/f1tenth/f1tenth_simulator>`_
+	- `RoboRacer Simulator Repo <https://github.com/f1tenth/f1tenth_simulator>`_
 	- `How to install the simulator <https://f1tenth.readthedocs.io/en/stable/going_forward/simulator/index.html>`_

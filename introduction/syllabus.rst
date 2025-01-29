@@ -13,12 +13,12 @@ There are 4 main components of this course:
 
 #. **Races:** There are :ref:`3 races <doc_races>`, each testing the students' application of different components of the class.
 
-#. **Final Project:** The final project gives students an opportunity to propose a problem and try to solve it using the F1TENTH Autonomous Vehicle System.
+#. **Final Project:** The final project gives students an opportunity to propose a problem and try to solve it using the RoboRacer Autonomous Vehicle System.
 
 Students should be grouped in teams of 3-4 with each member carrying different skills. Team formation occurs in :ref:`Lecture 5 <doc_lecture05>`.
 
 
-| `F1TENTH Syllabus <https://docs.google.com/spreadsheets/d/1PaFYG7XC_XQ3ExdQGb-S8oJzzixoMOVjh4L1RjW0gT0/edit#gid=0>`_
+| `RoboRacer Syllabus <https://docs.google.com/spreadsheets/d/1PaFYG7XC_XQ3ExdQGb-S8oJzzixoMOVjh4L1RjW0gT0/edit#gid=0>`_
 | `Sample Class Description/Syllabus <https://drive.google.com/file/d/1RP3umXQuymEi8qzeLRBn8AtH99lDwLUv/view?usp=drive_link>`_
 
 .. image:: img/syllabus2024.png

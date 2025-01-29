@@ -1,7 +1,7 @@
 .. _doc_lecture28:
 
 
-Lecture 28 - Race 3: F1TENTH Grand Prix!
+Lecture 28 - Race 3: RoboRacer Grand Prix!
 ======================================================
 
 **Overview:** 

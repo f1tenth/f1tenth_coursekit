@@ -12,7 +12,7 @@ Introduction
 	<br>
 	<br>
 
-F1TENTH is a fun, fast-paced, and flexible course that teaches the foundations of **Autonomy**: 
+RoboRacer is a fun, fast-paced, and flexible course that teaches the foundations of **Autonomy**: 
 
 	* Perception
 	* Planning

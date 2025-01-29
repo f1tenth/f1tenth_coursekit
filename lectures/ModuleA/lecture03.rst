@@ -29,7 +29,7 @@ Lecture 3 - Rigid Body Transformation
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://www.youtube.com/embed/XwNsJFcSQx4" title="F1TENTH L03 - Rigid Body Transformations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/XwNsJFcSQx4" title="RoboRacer L03 - Rigid Body Transformations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 .. <iframe width="560" height="315" src="https://www.youtube.com/embed/zkMelEB3-PY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		
 
