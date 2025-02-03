@@ -38,5 +38,5 @@ Lecture 1 - Introduction to Autonomous Driving: Perception, Planning Control
 
 
 **Links to additional resources:**
-	- `RoboRacer Main Website <http://f1tenth.org/>`_
-	- `Support Forum <http://f1tenth.org/forum.html>`_
+	- `RoboRacer Main Website <http://roboracer.ai/>`_
+	- `Support Forum <https://robo-racer.slack.com/ssb/redirect>`_

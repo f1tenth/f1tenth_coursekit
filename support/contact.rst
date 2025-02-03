@@ -6,5 +6,5 @@ RoboRacer is an open source project developed by a community of researchers and 
 
 * To talk with other educators, collaborators, and organizers, join our `slack workspace <https://join.slack.com/t/f1tenth-teams/shared_invite/zt-1mtf0wl07-8NDvC0UsJQtQ7SfdrE5eqg>`_.
 * For document edits/suggestions/recommendations, submit an issue on the `GitHub repository <https://github.com/f1tenth/f1tenth_coursekit/issues>`_.
-* For specific build and/or setup questions, post to the `forum <http://f1tenth.org/forum.html>`_.
+* For specific build and/or setup questions, post to the `forum <https://robo-racer.slack.com/ssb/redirect>`_.
 

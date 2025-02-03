@@ -11,7 +11,7 @@ Here, you will learn how to utilize your RoboRacer vehicle to its fullest potent
 .. image:: img/overview2.png
   :align: center
 
-If you are looking for the old Code page, you can find it `here <https://f1tenth.org/code-old.html>`_. Please note that we no longer provide support for the old code page. If you have questions, please post to the `forum <http://f1tenth.org/forum.html>`_.
+If you are looking for the old Code page, you can find it `here <https://roboracer.ai/code-old.html>`_. Please note that we no longer provide support for the old code page. If you have questions, please post to the `forum <https://robo-racer.slack.com/ssb/redirect>`_.
 
 .. note:: RoboRacer is an open source project developed by a community of
           researchers and students. The documentation team can always use your

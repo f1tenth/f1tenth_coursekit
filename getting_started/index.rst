@@ -19,7 +19,7 @@ There is enough material for a full semester course, however if you have a limit
 #. **15 Weeks (~ 1 Semester)** - Go through all of the :ref:`Lectures <doc_lecture_intro>` and complete all of the :ref:`Labs <doc_labs_intro>`. This is the most comprehensive learning experience.
 
 
-This documentation page does not contain any build or software instructions. See the `Build Page <http://f1tenth.org/build.html>`_ for that information.
+This documentation page does not contain any build or software instructions. See the `Build Page <http://roboracer.ai/build.html>`_ for that information.
 
 If you are looking for the old build/code page, you can find it `here <https://f1tenth.github.io/build-old.html>`_. Please note that we no longer support any of this material and the majority of the content is outdated.
 
