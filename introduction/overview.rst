@@ -35,7 +35,7 @@ This course is an integration of the concepts above and is not intended to be a 
 .. centered:: Join in the discussion with us on Slack! This is a Slack workspace that is specific to educators, collaborators, and organizers. 
 
 .. image:: img/add-to-slack.png
-   :target: https://join.slack.com/t/f1tenth-teams/shared_invite/enQtMzc3ODU2ODM1NzE3LTBjMmVkMzZjZTJiNWUzZDFhZTJiODgzMjg0MTA1MDAxZTUxMzkwMDRhNTM2NzdjNDc5MTk5YTc5YmNhNTdhMTUs
+   :target: https://robo-racer.slack.com/ssb/redirects
    :align: center
 
 **Overview:**

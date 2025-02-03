@@ -40,4 +40,4 @@ Lecture 5 - Follow the Gap: Obstacle Avoidance
 		- `RoboRacer Simulator Repo <https://github.com/f1tenth/f110_ros/tree/master/f110_simulator>`_
 		- `Build Documentation <https://f1tenth.github.io/build.html>`_ (VESC Tuning instructions can be found under **Installing Firmware > 1. Configuring the VESC**)
 		- `Build Support Forum <https://robo-racer.slack.com/ssb/redirect>`_
-		- `Connect with other RoboRacer teams from around the world <https://join.slack.com/t/f1tenth-teams/shared_invite/enQtMzc3ODU2ODM1NzE3LTBjMmVkMzZjZTJiNWUzZDFhZTJiODgzMjg0MTA1MDAxZTUxMzkwMDRhNTM2NzdjNDc5MTk5YTc5YmNhNTdhMTU>`_
+		- `Connect with other RoboRacer teams from around the world <https://robo-racer.slack.com/ssb/redirect>`_
