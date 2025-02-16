@@ -36,7 +36,7 @@ Lecture 4 - Laplace Domain Dynamics & PID
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://www.youtube.com/embed/qIpiqhO3ITY" title="F1TENTH L04  - PID Control for Wall Following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/qIpiqhO3ITY" title="RoboRacer L04  - PID Control for Wall Following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Links to additional resources:**

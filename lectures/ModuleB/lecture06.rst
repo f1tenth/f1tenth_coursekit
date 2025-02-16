@@ -20,7 +20,7 @@ Lecture 6 - Vehicle States and Vehicle Dynamics
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://www.youtube.com/embed/8zr5NUS05cM" title="F1TENTH L06 - Vehicle States, Vehicle Dynamics and Map Representations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		<iframe width="700" height="500" src="https://www.youtube.com/embed/8zr5NUS05cM" title="RoboRacer L06 - Vehicle States, Vehicle Dynamics and Map Representations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Links to additional resources:**
