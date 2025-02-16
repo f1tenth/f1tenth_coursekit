@@ -1,7 +1,7 @@
 .. _doc_moduleA:
 
 
-Module A: Introduction to ROS, F110 & the Simulator
+Module A: Introduction to ROS, RoboRacer & the Simulator
 ========================================
 The first module goes over the some of the basics required to understand and control the F1TENTH Autonomous Vehicle System. 
 
