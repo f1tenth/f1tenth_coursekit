@@ -21,7 +21,7 @@ Lecture 11 - Local Planning: RRT, Spline Based Planner
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1W9_nQ-mgeIkZSo40hkxwzSX2LjKGl3JTg72nzjMfnkg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1Q6z5NeoF2kP3zAuVbUPGw7dr8uE4zxZchvR-DGBkW8s/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 .. 
 	**Video:**
