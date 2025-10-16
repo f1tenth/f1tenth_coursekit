@@ -19,7 +19,7 @@ Lecture 18 - Extending Single View and YOLO
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vSqLna2Pa07GtJIEmxtU6DEITwqMxNNfU8Om_ULnkwqYJkNv6tbtbqz2V0Begb07A/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1LpPAIEn_P6qRwK6hi82khVdWqADmL23Nhev_t0cEaos/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ..
 	**Video:**

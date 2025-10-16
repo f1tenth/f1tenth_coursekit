@@ -18,7 +18,7 @@ Lecture 17 - Detection and Pose Estimation
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fMOMRpjsfwFjUz_nleJmhZ-TJtuTL9U05RvUt9VUVihb8_wZDjLievyM15Ke8w/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1oSpFnZb_7pb1eGQSf6hWguI1UWbPNllsweaET4l2qjM/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ..	
 	**Video:**
