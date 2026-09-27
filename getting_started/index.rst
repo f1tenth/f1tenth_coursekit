@@ -18,6 +18,8 @@ There is enough material for a full semester course, however if you have a limit
 
 #. **15 Weeks (~ 1 Semester)** - Go through all of the :ref:`Lectures <doc_lecture_intro>` and complete all of the :ref:`Labs <doc_labs_intro>`. This is the most comprehensive learning experience.
 
+The `Courses page <https://roboracer.ai/learn/courses>`_ on roboracer.ai presents these 4-, 10- and 15-week options as ready-to-take course plans, mapped to the modules and labs of this documentation. It is written for students choosing a plan and for instructors who want to offer the course. It also lists the universities that teach RoboRacer and explains how to run the course at your own institution.
+
 
 This documentation page does not contain any build or software instructions. See the `Build Page <http://f1tenth.org/build.html>`_ for that information.
 
