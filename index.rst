@@ -40,6 +40,7 @@ If you are looking for the old Code page, you can find it `here <https://f1tenth
 
    introduction/overview
    introduction/syllabus
+   Courses <https://roboracer.ai/learn/courses>
 
 .. toctree::
    :maxdepth: 2

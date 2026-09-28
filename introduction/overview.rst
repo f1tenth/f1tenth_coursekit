@@ -32,6 +32,8 @@ This course is an integration of the concepts above and is not intended to be a 
 	* Optimization theory
 	* Programming skills (preferably C++ or Python)
 
+To take or teach this course, see the `RoboRacer Courses site <https://roboracer.ai/learn/courses>`_ for its 4-, 10- and 15-week versions.
+
 .. centered:: Join in the discussion with us on Slack! This is a Slack workspace that is specific to educators, collaborators, and organizers. 
 
 .. image:: img/add-to-slack.png
