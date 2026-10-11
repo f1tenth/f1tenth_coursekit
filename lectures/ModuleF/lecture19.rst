@@ -13,10 +13,6 @@ Lecture 19 - Project Proposal
 
 		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1yHPa8g6OKN_rBbTSSBh78RAhun1M_zNsqdhU5tNjnyg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**Associated Assignment:** 
-
-	* :ref:`Lab 9: Robot Ethics <doc_lab9>` released
-
 
 **Links to additional resources:**
 	- `Speed Control for Robust Path-Tracking for Automated Vehicles at the Tire-Road Friction Limit <https://ddl.stanford.edu/sites/g/files/sbiybj9456/f/Laurense2018_Speed%20Control%20for%20Robust%20Path-Tracking%20for%20Automated%20Vehicles%20at%20the%20Tire-Road%20Friction%20Limit.pdf>`_

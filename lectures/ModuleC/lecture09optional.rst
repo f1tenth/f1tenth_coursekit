@@ -13,9 +13,6 @@ Lecture 9 (Optional) - Scan Matching I & II
 	-	Iterative Closest Point
 	-	Fast Correspondence Search
 
-**Associated Assignment:** 
-	* :ref:`Lab 5 (Optional): Scan Matching <doc_lab05>`
-
 **Slides:**
 
 	.. raw:: html
