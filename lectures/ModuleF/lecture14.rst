@@ -14,7 +14,7 @@ Lecture 14 - Rapidly-exploring Random Tree (RRT)
 	-	A*, Dijkstra's, BFS
 
 **Associated Assignment:** 
-	* :ref:`Lab 7: Motion Planning (RRT) <doc_lab7>`
+	* :ref:`Lab 6: Motion Planning <doc_lab6>`
 
 **Slides:**
 

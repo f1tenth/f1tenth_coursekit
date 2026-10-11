@@ -27,9 +27,9 @@ Lab 2 - Automatic Emergency Braking
 
 .. 	<iframe width="700" height="800" src="https://drive.google.com/file/d/1cGN8fXoMFhFFCXBd3cdlYv-UABaRmxog/preview?usp=drive_link" width="640" height="480"></iframe>
 
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_lab2_template/tree/b49965fb833221c6ba0f83666838c6f9f9971438>`_ 
+| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_lab2_template/tree/df5b2153c9043a681ef269dca1b975af3bcd9bd8>`_ 
 
 
 .. raw:: html
-	
-	<iframe frameborder="10" scrolling="yes" style="width:100%; height:3019px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2Ff1tenth%2Ff1tenth_lab2_template%2Fblob%2Fb49965fb833221c6ba0f83666838c6f9f9971438%2FREADME.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></iframe>
+
+	<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Ff1tenth%2Ff1tenth_lab2_template%2Fblob%2Fdf5b2153c9043a681ef269dca1b975af3bcd9bd8%2FREADME.md&style=default&type=markdown&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>

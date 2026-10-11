@@ -7,9 +7,6 @@ Lectures 22 - Moral Decision Making
 **Overview:** 
 	This lecture is a class discussion on robot ethics. Students should come prepared to participate. 
 
-**Associated Assignment:** 
-	* :ref:`Lab 9: Robot Ethics <doc_lab9>`
-
 **Slides:**
 
 	.. raw:: html
