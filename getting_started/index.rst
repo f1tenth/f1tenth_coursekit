@@ -21,7 +21,7 @@ There is enough material for a full semester course, however if you have a limit
 The `RoboRacer Courses site <https://roboracer.ai/learn/courses>`_ offers these 4-, 10- and 15-week options as courses built on the modules and labs of this documentation, for students who want to take one and for instructors who want to teach it at their university.
 
 
-This documentation page does not contain any build or software instructions. See the `Build Page <http://f1tenth.org/build.html>`_ for that information.
+This documentation page does not contain any build or software instructions. See the `Build Page <https://roboracer.ai/build>`_ for that information.
 
 If you are looking for the old build/code page, you can find it `here <https://f1tenth.github.io/build-old.html>`_. Please note that we no longer support any of this material and the majority of the content is outdated.
 
