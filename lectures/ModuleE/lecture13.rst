@@ -16,7 +16,7 @@ Lecture 13 - Machine Learning Perception
 
 
 **Associated Assignment:** 
-	* :ref:`Lab 7: Perception & Vision <doc_lab7>`
+	* :ref:`Lab 9: Perception & Vision <doc_lab9>`
 
 **Slides:**
 

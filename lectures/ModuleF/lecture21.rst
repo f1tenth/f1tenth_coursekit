@@ -11,6 +11,10 @@ Lecture 21 - Model Predictive Control
 	-	Linear MPC
 	-	Non-linear MPC
 
+
+**Associated Assignment:** 
+	* :ref:`Lab 7: Model Predictive Control <doc_lab7>`
+
 **Slides:**
 
 	.. raw:: html

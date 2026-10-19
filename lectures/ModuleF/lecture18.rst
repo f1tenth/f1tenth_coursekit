@@ -13,7 +13,7 @@ Lecture 18 - Extending Single View and YOLO
 	-	Object detection
 
 **Associated Assignment:** 
-	* :ref:`Lab 7: Perception & Vision <doc_lab7>`
+	* :ref:`Lab 9: Perception & Vision <doc_lab9>`
 
 **Slides:**
 
